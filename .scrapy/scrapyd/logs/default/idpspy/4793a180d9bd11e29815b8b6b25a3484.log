@@ -1,0 +1,98 @@
+2013-06-20 17:22:57+0200 [scrapy] INFO: Scrapy 0.16.5 started (bot: crawler)
+2013-06-20 17:22:57+0200 [scrapy] ERROR: Unknown feed storage scheme: c
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Enabled extensions: LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, RedirectMiddleware, CookiesMiddleware, HttpCompressionMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Enabled item pipelines: 
+2013-06-20 17:22:58+0200 [idpspy] INFO: Spider opened
+2013-06-20 17:22:58+0200 [idpspy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Telnet console listening on 0.0.0.0:6023
+2013-06-20 17:22:58+0200 [scrapy] DEBUG: Web service listening on 0.0.0.0:6080
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Crawled (200) <GET http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html> (referer: None)
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/Ausschreibung_Studienarbeit_Head_tracking_englisch.pdf'],
+	 'title': [u'IDP Head tracking']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/13.04.26_IDP_Planungsalgorithmen_Multitouch_en.pdf'],
+	 'title': [u'IDP Planungsalgorithmen Multitouch']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/idpComputerVision.pdf'],
+	 'title': [u'IDP Computer Vision']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/urban_traffic.pdf'],
+	 'title': [u'Simulation of Urban Traffic']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/Aushang_SADA.pdf'],
+	 'title': [u'Advancement of a java-based visualization tool for Product-Service Systems']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_-_Simulation_of_Decentralised_Agent-based_Control_Systems_in_Intralogistics.pdf'],
+	 'title': [u'IDP - Simulation of Decentralised Agent-based Control Systems in Intralogistics']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_-_Data_Modeling_of_Agent-based_Decentralized_Control_Systems_in_Intralogistics.pdf'],
+	 'title': [u'IDP - Data Modeling of Agent-based Decentralized Control Systems in Intralogistics']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_Design_of_a_web-based_software.pdf'],
+	 'title': [u'IDP Design of a web-based software development platform']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_Design_of_an_intelligent_development_environment_for_graph_transformation_systems.pdf'],
+	 'title': [u'IDP Design of an intelligent development environment for graph transformation systems']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_Integration_of_graph_transformation_and_graph_visualization_tools.pdf'],
+	 'title': [u'IDP Integration of graph transformation and graph visualization tools']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_-_Scheduling_Resident_Training-1.pdf'],
+	 'title': [u'IDP - Scheduling Resident Training']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/130409_IDP_Cloud-based_MRP_Software.pdf'],
+	 'title': [u'IDP Cloud-based MRP Software']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/Start-Up_IDP_Pamono.pdf'],
+	 'title': [u'Start-Up IDP Pamono']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_Gamification_wiwi.pdf'],
+	 'title': [u'IDP Gamification']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/Design_of_Business_Processes.pdf'],
+	 'title': [u'Design of Business Processes']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/Enwida_2013-03-08_IDP_Task.pdf'],
+	 'title': [u'Web Application for Energy Economics Data (Startup Enwida)']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/cdp_flow_EN.pdf'],
+	 'title': [u'CDP - Realtime Flow Simulation']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP-Event_Visualization_with_OpenStreetMap__OSM__Data.pdf'],
+	 'title': [u'Event Visualization with Open Street Map  OSM  Data']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_MultiTouch.pdf'],
+	 'title': [u'IDP Multi-Touch & Semantische Modelle']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/IDP_Mobile_Application.pdf'],
+	 'title': [u'IDP Mobile Application']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/cdp_flow_EN.pdf'],
+	 'title': [u'CDP - Realtime Flow Simulation']}
+2013-06-20 17:22:58+0200 [idpspy] DEBUG: Scraped from <200 http://www.in.tum.de/en/for-students-of-the-tum/master-programs/informatics/idp-offers.html>
+	{'link': [u'fileadmin/user_upload/Studiengaenge/MSc_Info/_CollaborativeDesignPlattfrom_en.pdf'],
+	 'title': [u'Collaborative Design Plattfrom en']}
+2013-06-20 17:22:58+0200 [idpspy] INFO: Closing spider (finished)
+2013-06-20 17:22:58+0200 [idpspy] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 289,
+	 'downloader/request_count': 1,
+	 'downloader/request_method_count/GET': 1,
+	 'downloader/response_bytes': 9306,
+	 'downloader/response_count': 1,
+	 'downloader/response_status_count/200': 1,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2013, 6, 20, 15, 22, 58, 660000),
+	 'item_scraped_count': 22,
+	 'log_count/DEBUG': 29,
+	 'log_count/ERROR': 1,
+	 'log_count/INFO': 4,
+	 'response_received_count': 1,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2013, 6, 20, 15, 22, 58, 159000)}
+2013-06-20 17:22:58+0200 [idpspy] INFO: Spider closed (finished)
